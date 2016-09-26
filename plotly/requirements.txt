@@ -2,6 +2,7 @@
 #import <package name>; print <package name>.__version__
 #or run pip show <package name> in terminal
 #if not installed, run pip install <package name==version> 
+#if you have both python2.x and python3.x installed, you may have to run pip2 to install packages under python2.x specifically
 
 appnope==0.1.0
 backports-abc==0.4
