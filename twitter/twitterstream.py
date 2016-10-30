@@ -3,10 +3,10 @@ import urllib2 as urllib
 
 #  Go to https://dev.twitter.com/apps to obtain your twitter credentials
 
-api_key = " "
-api_secret = " "
-access_token_key = " "
-access_token_secret = " "
+api_key = "Your API key"
+api_secret = "Your API secret"
+access_token_key = "Your access token key "
+access_token_secret = "Your access token secret"
 
 _debug = 0
 
